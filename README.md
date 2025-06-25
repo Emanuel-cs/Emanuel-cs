@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77DD77&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=115&section=header"/>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=77DD77&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 - Cursando ADS (Análise e desenvolvimento de sistemas)
 - Ingles avançado C1
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanuel-cs&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-cs&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanuel-cs&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanuel-cs&layout=compact&theme=midnight-purple)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -39,4 +39,4 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Emanuel-cs/Emanuel-cs/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=77DD77&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=115&section=footer"/>
